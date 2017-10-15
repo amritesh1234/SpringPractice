@@ -1,3 +1,3 @@
 # SpringPractice
-My spring Example
-This is a sample project created by me as a practice for Javca and Spring functionality.
+
+This is a sample project created by me as a practice for Java and Spring functionality.
